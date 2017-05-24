@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Interviews
 {
-    class StringManipulation
+    public class StringManipulation
     {
         /// <summary>
         /// Arrays - Removes one string from another in place
